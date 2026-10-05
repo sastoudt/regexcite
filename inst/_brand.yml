@@ -1,0 +1,16 @@
+meta:
+  name: brand.yml
+link: https://posit-dev.github.io/brand-yml
+
+color:
+  palette:
+  orange: "#FF6F20"
+  pink: "#FF3D7F"
+  primary: orange
+  danger: pink
+
+typography:
+  fonts:
+  - family: Open Sans
+source: google
+base: Open Sans
